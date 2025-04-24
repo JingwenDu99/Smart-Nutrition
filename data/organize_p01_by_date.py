@@ -17,13 +17,13 @@ for item in image_info:
     filename = item["filename"]                   # e.g.: IMG_8916.jpeg
     datetime_str = item["datetime"]               # e.g.: 2020:02:01 10:03:41
 
-    # e.g.:20200201 
-    date = datetime.strptime(datetime_str, "%Y:%m:%d %H:%M:%S").strftime("%Y%m%d")
+    # e.g.:2020-02-01 
+    date = datetime.strptime(datetime_str, "%Y:%m:%d %H:%M:%S").strftime("%Y-%m-%d")
 
     # source path
     src_path = os.path.join(image_dir, filename)
 
-    # Create destination path data/processed/p01/20200201/
+    # Create destination path data/processed/p01/food-images/2020-02-01/
     dst_dir = os.path.join(output_root, date)
     os.makedirs(dst_dir, exist_ok=True)
 

@@ -1,18 +1,17 @@
 {
   "favfood": {
-    "banana": "uncertain",
-    "nuts": "uncertain",
-    "coke": "uncertain"
+    "cheese": "uncertain",
+    "fruit-based snacks": "less likely"
   },
   "restrictions": {
-    "pork": "uncertain",
-    "vegan": "uncertain"
+    "dairy": "likely",
+    "pork": "impossible",
+    "gluten": "uncertain"
   },
-  "region_preference": {
-    "American": "uncertain",
-    "East Asian": "uncertain"
-  },
+  "region_preference": {},
   "diet_pattern": {
-    "balanced": "likely"
+    "high-protein": "likely",
+    "vegetarian-leaning": "uncertain",
+    "ultra-processed": "less likely"
   }
 }

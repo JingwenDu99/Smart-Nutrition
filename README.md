@@ -109,8 +109,8 @@ Take participant 1 (`p01`) on `2020-02-01` as an example to run the code:
 ### Step 1: Run Agent 1-3
 ```bash
 python3 agent1/run_agent1_day.py --participant p01 --date 2020-02-01
-python3 agent2/run_agent2_day.py --date 2020-02-01
-python3 agent3/run_agent3_day.py --date 2020-02-01
+python3 agent2/run_agent2_day.py --participant p01 --date 2020-02-01
+python3 agent3/run_agent3_day.py --participant p01 --date 2020-02-01
 ```
 ---
 
@@ -120,6 +120,16 @@ The final result will be saved to:
 
 ```
 output/p01/agent3_2020-02-01.txt
+```
+
+Templates files for all intermediate steps are also available for reference:
+
+
+```
+output/p01/2020-02-01_intake_template.json
+output/p01/2020-02-01_profile_update_template.json
+output/p01/agent2_2020-02-01_template.json
+output/p01/agent3_2020-02-01_template.txt
 ```
 
 Example content:

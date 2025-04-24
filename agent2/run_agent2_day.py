@@ -57,7 +57,11 @@ def build_prompt(simplified, template_path):
         template = f.read()
     return template.replace("{{data}}", json.dumps(simplified, indent=2))
 
-def run_day_analysis(date, data, prompt_template, output_dir="output/p01"):
+def run_day_analysis(date, prompt_template, participant):
+    output_dir=f"output/{participant}"
+
+    with open(f"data/{participant}/fitbit/consumption.json") as f:
+        data = json.load(f)
     today, history = extract_window(data, date)
     if not today:
         print(f"Skipped {date} — no valid data.")
@@ -78,9 +82,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument("--date", type=str, required=True, help="Target date in YYYY-MM-DD")
     parser.add_argument("--prompt_template", type=str, default="prompts/agent2_prompt.txt", help="Path to the prompt template")
+    parser.add_argument("--participant", required=True, help="e.g., p01")
     args = parser.parse_args()
-   
-    with open("data/p01/fitbit/consumption.json") as f:
-        data = json.load(f)
     
-    run_day_analysis(args.date, data, args.prompt_template)
+    run_day_analysis(args.date, args.prompt_template, arg.participant)
