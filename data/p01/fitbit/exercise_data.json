@@ -1,0 +1,1537 @@
+[
+  {
+    "date": "2019-11-01",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 94,
+        "calories": 192
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 94,
+        "calories": 302
+      }
+    ]
+  },
+  {
+    "date": "2019-11-02",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 354
+      }
+    ]
+  },
+  {
+    "date": "2019-11-04",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 145
+      }
+    ]
+  },
+  {
+    "date": "2019-11-05",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 93,
+        "calories": 121
+      },
+      {
+        "activityName": "Run",
+        "averageHeartRate": 144,
+        "calories": 396
+      }
+    ]
+  },
+  {
+    "date": "2019-11-08",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 252
+      }
+    ]
+  },
+  {
+    "date": "2019-11-09",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 454
+      }
+    ]
+  },
+  {
+    "date": "2019-11-10",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "calories": 470
+      }
+    ]
+  },
+  {
+    "date": "2019-11-11",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 146,
+        "calories": 339
+      }
+    ]
+  },
+  {
+    "date": "2019-11-12",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 88,
+        "calories": 104
+      }
+    ]
+  },
+  {
+    "date": "2019-11-14",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 292
+      },
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 119,
+        "calories": 633
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 195
+      }
+    ]
+  },
+  {
+    "date": "2019-11-15",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 114,
+        "calories": 221
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "calories": 248
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 351
+      }
+    ]
+  },
+  {
+    "date": "2019-11-16",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "calories": 173
+      },
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 96,
+        "calories": 141
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 110,
+        "calories": 166
+      }
+    ]
+  },
+  {
+    "date": "2019-11-17",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "calories": 338
+      }
+    ]
+  },
+  {
+    "date": "2019-11-18",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 127,
+        "calories": 639
+      }
+    ]
+  },
+  {
+    "date": "2019-11-19",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 139
+      }
+    ]
+  },
+  {
+    "date": "2019-11-21",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 159
+      },
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 119,
+        "calories": 1122
+      }
+    ]
+  },
+  {
+    "date": "2019-11-22",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 135
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 127
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 145
+      }
+    ]
+  },
+  {
+    "date": "2019-11-23",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 864
+      },
+      {
+        "activityName": "Run",
+        "averageHeartRate": 141,
+        "calories": 461
+      }
+    ]
+  },
+  {
+    "date": "2019-11-24",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "calories": 575
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "calories": 240
+      }
+    ]
+  },
+  {
+    "date": "2019-11-25",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 200
+      }
+    ]
+  },
+  {
+    "date": "2019-11-26",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 126,
+        "calories": 93
+      },
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 157,
+        "calories": 539
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 87,
+        "calories": 214
+      }
+    ]
+  },
+  {
+    "date": "2019-11-27",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 89,
+        "calories": 137
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 99,
+        "calories": 166
+      }
+    ]
+  },
+  {
+    "date": "2019-11-28",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 117,
+        "calories": 853
+      }
+    ]
+  },
+  {
+    "date": "2019-11-29",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 85,
+        "calories": 109
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 203
+      }
+    ]
+  },
+  {
+    "date": "2019-11-30",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 91,
+        "calories": 274
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 87,
+        "calories": 128
+      }
+    ]
+  },
+  {
+    "date": "2019-12-01",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 172
+      }
+    ]
+  },
+  {
+    "date": "2019-12-02",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 89,
+        "calories": 337
+      }
+    ]
+  },
+  {
+    "date": "2019-12-03",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 140,
+        "calories": 630
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 99,
+        "calories": 164
+      }
+    ]
+  },
+  {
+    "date": "2019-12-05",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 112,
+        "calories": 729
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 159
+      }
+    ]
+  },
+  {
+    "date": "2019-12-06",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 172
+      }
+    ]
+  },
+  {
+    "date": "2019-12-07",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 85,
+        "calories": 112
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 156
+      }
+    ]
+  },
+  {
+    "date": "2019-12-08",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 165
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 181
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 172
+      }
+    ]
+  },
+  {
+    "date": "2019-12-13",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "calories": 204
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 89,
+        "calories": 151
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 188
+      }
+    ]
+  },
+  {
+    "date": "2019-12-14",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 243
+      }
+    ]
+  },
+  {
+    "date": "2019-12-15",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 177
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 574
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 93,
+        "calories": 328
+      }
+    ]
+  },
+  {
+    "date": "2019-12-16",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 157
+      }
+    ]
+  },
+  {
+    "date": "2019-12-17",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "calories": 183
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 94,
+        "calories": 184
+      }
+    ]
+  },
+  {
+    "date": "2019-12-18",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 109,
+        "calories": 219
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "calories": 237
+      }
+    ]
+  },
+  {
+    "date": "2019-12-19",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "calories": 325
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 86,
+        "calories": 173
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 282
+      }
+    ]
+  },
+  {
+    "date": "2019-12-20",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 189
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 306
+      }
+    ]
+  },
+  {
+    "date": "2019-12-21",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 875
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 159
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 154
+      }
+    ]
+  },
+  {
+    "date": "2019-12-22",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "calories": 494
+      }
+    ]
+  },
+  {
+    "date": "2019-12-23",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "calories": 840
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 95,
+        "calories": 140
+      }
+    ]
+  },
+  {
+    "date": "2019-12-25",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 87,
+        "calories": 155
+      }
+    ]
+  },
+  {
+    "date": "2019-12-26",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 163,
+        "calories": 454
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 235
+      }
+    ]
+  },
+  {
+    "date": "2019-12-27",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 265
+      }
+    ]
+  },
+  {
+    "date": "2019-12-28",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 195
+      }
+    ]
+  },
+  {
+    "date": "2019-12-29",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 151
+      }
+    ]
+  },
+  {
+    "date": "2019-12-31",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 90,
+        "calories": 198
+      }
+    ]
+  },
+  {
+    "date": "2020-01-02",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 222
+      }
+    ]
+  },
+  {
+    "date": "2020-01-03",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 145,
+        "calories": 436
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 99,
+        "calories": 405
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 91,
+        "calories": 184
+      }
+    ]
+  },
+  {
+    "date": "2020-01-04",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 147,
+        "calories": 815
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "calories": 171
+      }
+    ]
+  },
+  {
+    "date": "2020-01-05",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 52,
+        "calories": 2
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 296
+      }
+    ]
+  },
+  {
+    "date": "2020-01-06",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 252
+      }
+    ]
+  },
+  {
+    "date": "2020-01-07",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 147,
+        "calories": 491
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "calories": 531
+      }
+    ]
+  },
+  {
+    "date": "2020-01-08",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "calories": 264
+      }
+    ]
+  },
+  {
+    "date": "2020-01-09",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 106,
+        "calories": 266
+      },
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 113,
+        "calories": 586
+      }
+    ]
+  },
+  {
+    "date": "2020-01-10",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 550
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 93,
+        "calories": 137
+      }
+    ]
+  },
+  {
+    "date": "2020-01-11",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 94,
+        "calories": 162
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "calories": 172
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 140
+      }
+    ]
+  },
+  {
+    "date": "2020-01-12",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 248
+      }
+    ]
+  },
+  {
+    "date": "2020-01-13",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 89,
+        "calories": 197
+      }
+    ]
+  },
+  {
+    "date": "2020-01-14",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 148,
+        "calories": 562
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 86,
+        "calories": 178
+      }
+    ]
+  },
+  {
+    "date": "2020-01-15",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 556
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 93,
+        "calories": 151
+      }
+    ]
+  },
+  {
+    "date": "2020-01-16",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 136,
+        "calories": 289
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 145
+      }
+    ]
+  },
+  {
+    "date": "2020-01-17",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 234
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 88,
+        "calories": 121
+      }
+    ]
+  },
+  {
+    "date": "2020-01-18",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 139,
+        "calories": 752
+      }
+    ]
+  },
+  {
+    "date": "2020-01-19",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 85,
+        "calories": 555
+      }
+    ]
+  },
+  {
+    "date": "2020-01-20",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 141
+      }
+    ]
+  },
+  {
+    "date": "2020-01-21",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 268
+      }
+    ]
+  },
+  {
+    "date": "2020-01-22",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 85,
+        "calories": 131
+      }
+    ]
+  },
+  {
+    "date": "2020-01-23",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 115,
+        "calories": 782
+      }
+    ]
+  },
+  {
+    "date": "2020-01-25",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 87,
+        "calories": 212
+      },
+      {
+        "activityName": "Run",
+        "averageHeartRate": 155,
+        "calories": 714
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 91,
+        "calories": 127
+      }
+    ]
+  },
+  {
+    "date": "2020-01-26",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 748
+      }
+    ]
+  },
+  {
+    "date": "2020-01-28",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 617
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 93,
+        "calories": 213
+      }
+    ]
+  },
+  {
+    "date": "2020-01-30",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 83,
+        "calories": 111
+      },
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 117,
+        "calories": 1046
+      }
+    ]
+  },
+  {
+    "date": "2020-01-31",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 316
+      }
+    ]
+  },
+  {
+    "date": "2020-02-01",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 88,
+        "calories": 123
+      }
+    ]
+  },
+  {
+    "date": "2020-02-02",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 91,
+        "calories": 104
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "calories": 150
+      }
+    ]
+  },
+  {
+    "date": "2020-02-03",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 195
+      }
+    ]
+  },
+  {
+    "date": "2020-02-05",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 158,
+        "calories": 537
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 466
+      }
+    ]
+  },
+  {
+    "date": "2020-02-06",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 134,
+        "calories": 516
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 124
+      },
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 121,
+        "calories": 1011
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 160
+      }
+    ]
+  },
+  {
+    "date": "2020-02-08",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "calories": 156
+      }
+    ]
+  },
+  {
+    "date": "2020-02-09",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 90,
+        "calories": 189
+      }
+    ]
+  },
+  {
+    "date": "2020-02-10",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 152,
+        "calories": 567
+      }
+    ]
+  },
+  {
+    "date": "2020-02-12",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 113,
+        "calories": 194
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 216
+      }
+    ]
+  },
+  {
+    "date": "2020-02-13",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 123,
+        "calories": 456
+      }
+    ]
+  },
+  {
+    "date": "2020-02-14",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 151
+      }
+    ]
+  },
+  {
+    "date": "2020-02-16",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 99,
+        "calories": 140
+      }
+    ]
+  },
+  {
+    "date": "2020-02-18",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 242
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 103,
+        "calories": 186
+      }
+    ]
+  },
+  {
+    "date": "2020-02-19",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 95,
+        "calories": 341
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 90,
+        "calories": 164
+      }
+    ]
+  },
+  {
+    "date": "2020-02-21",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 134,
+        "calories": 274
+      },
+      {
+        "activityName": "Run",
+        "averageHeartRate": 133,
+        "calories": 283
+      }
+    ]
+  },
+  {
+    "date": "2020-02-22",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 84,
+        "calories": 165
+      }
+    ]
+  },
+  {
+    "date": "2020-02-26",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 159,
+        "calories": 486
+      }
+    ]
+  },
+  {
+    "date": "2020-02-27",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 190
+      },
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 133,
+        "calories": 1197
+      }
+    ]
+  },
+  {
+    "date": "2020-02-29",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 104,
+        "calories": 194
+      }
+    ]
+  },
+  {
+    "date": "2020-03-01",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 180
+      }
+    ]
+  },
+  {
+    "date": "2020-03-02",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 94,
+        "calories": 193
+      }
+    ]
+  },
+  {
+    "date": "2020-03-03",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 83,
+        "calories": 107
+      }
+    ]
+  },
+  {
+    "date": "2020-03-05",
+    "activities": [
+      {
+        "activityName": "Sport",
+        "averageHeartRate": 129,
+        "calories": 952
+      },
+      {
+        "activityName": "Run",
+        "averageHeartRate": 150,
+        "calories": 493
+      }
+    ]
+  },
+  {
+    "date": "2020-03-06",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 95,
+        "calories": 249
+      }
+    ]
+  },
+  {
+    "date": "2020-03-07",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 144
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "calories": 401
+      }
+    ]
+  },
+  {
+    "date": "2020-03-08",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 95,
+        "calories": 211
+      }
+    ]
+  },
+  {
+    "date": "2020-03-09",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 81,
+        "calories": 102
+      }
+    ]
+  },
+  {
+    "date": "2020-03-10",
+    "activities": [
+      {
+        "activityName": "Treadmill",
+        "averageHeartRate": 140,
+        "calories": 577
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 158
+      }
+    ]
+  },
+  {
+    "date": "2020-03-12",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 107,
+        "calories": 232
+      }
+    ]
+  },
+  {
+    "date": "2020-03-14",
+    "activities": [
+      {
+        "activityName": "Run",
+        "averageHeartRate": 145,
+        "calories": 416
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 152
+      }
+    ]
+  },
+  {
+    "date": "2020-03-15",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 87,
+        "calories": 134
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 105,
+        "calories": 447
+      }
+    ]
+  },
+  {
+    "date": "2020-03-16",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 128
+      }
+    ]
+  },
+  {
+    "date": "2020-03-17",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 169
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 97,
+        "calories": 216
+      }
+    ]
+  },
+  {
+    "date": "2020-03-19",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 87,
+        "calories": 118
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 83,
+        "calories": 150
+      }
+    ]
+  },
+  {
+    "date": "2020-03-21",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 98,
+        "calories": 971
+      }
+    ]
+  },
+  {
+    "date": "2020-03-25",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 87,
+        "calories": 148
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 369
+      }
+    ]
+  },
+  {
+    "date": "2020-03-26",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 101,
+        "calories": 395
+      }
+    ]
+  },
+  {
+    "date": "2020-03-27",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 92,
+        "calories": 139
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 102,
+        "calories": 168
+      },
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 99,
+        "calories": 452
+      }
+    ]
+  },
+  {
+    "date": "2020-03-28",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 100,
+        "calories": 846
+      }
+    ]
+  },
+  {
+    "date": "2020-03-29",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 96,
+        "calories": 151
+      }
+    ]
+  },
+  {
+    "date": "2020-03-31",
+    "activities": [
+      {
+        "activityName": "Walk",
+        "averageHeartRate": 108,
+        "calories": 459
+      }
+    ]
+  }
+]

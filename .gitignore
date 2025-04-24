@@ -1,0 +1,5 @@
+data/**/heart_rate.json
+data/**/food-images.zip
+*.zip
+output/
+

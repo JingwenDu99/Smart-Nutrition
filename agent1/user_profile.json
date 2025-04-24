@@ -1,0 +1,18 @@
+{
+  "favfood": {
+    "banana": "uncertain",
+    "nuts": "uncertain",
+    "coke": "uncertain"
+  },
+  "restrictions": {
+    "pork": "uncertain",
+    "vegan": "uncertain"
+  },
+  "region_preference": {
+    "American": "uncertain",
+    "East Asian": "uncertain"
+  },
+  "diet_pattern": {
+    "balanced": "likely"
+  }
+}

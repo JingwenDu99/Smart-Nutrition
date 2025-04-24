@@ -1,0 +1,1397 @@
+[
+  {
+    "date": "2019-11-02",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 378,
+    "minutesAwake": 52,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 430,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-03",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 378,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 422,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-11-04",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 361,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 399,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-11-05",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 326,
+    "minutesAwake": 36,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 362,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-11-06",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 341,
+    "minutesAwake": 23,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 364,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-11-07",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 312,
+    "minutesAwake": 54,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 366,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-07",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 312,
+    "minutesAwake": 54,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 366,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-08",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 360,
+    "minutesAwake": 32,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 392,
+    "efficiency": 100
+  },
+  {
+    "date": "2019-11-09",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 344,
+    "minutesAwake": 47,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 391,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-11-10",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 382,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 422,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-11-11",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 318,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 356,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-12",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 378,
+    "minutesAwake": 45,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 423,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-11-13",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 320,
+    "minutesAwake": 41,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 361,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-14",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 325,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 367,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-11-15",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 342,
+    "minutesAwake": 43,
+    "minutesAfterWakeup": 2,
+    "timeInBed": 385,
+    "efficiency": 95
+  },
+  {
+    "date": "2019-11-16",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 317,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 359,
+    "efficiency": 93
+  },
+  {
+    "date": "2019-11-17",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 337,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 6,
+    "timeInBed": 377,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-11-18",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 330,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 372,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-11-19",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 318,
+    "minutesAwake": 43,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 361,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-11-20",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 383,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 422,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-21",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 327,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 371,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-11-22",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 333,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 4,
+    "timeInBed": 372,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-23",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 356,
+    "minutesAwake": 54,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 410,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-11-24",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 421,
+    "minutesAwake": 67,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 488,
+    "efficiency": 95
+  },
+  {
+    "date": "2019-11-25",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 332,
+    "minutesAwake": 35,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 367,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-11-26",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 318,
+    "minutesAwake": 53,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 371,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-11-27",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 365,
+    "minutesAwake": 45,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 410,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-11-28",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 341,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 391,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-11-29",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 309,
+    "minutesAwake": 52,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 361,
+    "efficiency": 93
+  },
+  {
+    "date": "2019-11-30",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 402,
+    "minutesAwake": 33,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 435,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-12-01",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 387,
+    "minutesAwake": 41,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 428,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-12-02",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 190,
+    "minutesAwake": 23,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 213,
+    "efficiency": 95
+  },
+  {
+    "date": "2019-12-03",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 345,
+    "minutesAwake": 35,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 380,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-12-04",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 335,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 377,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-05",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 314,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 353,
+    "efficiency": 95
+  },
+  {
+    "date": "2019-12-06",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 290,
+    "minutesAwake": 69,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 359,
+    "efficiency": 89
+  },
+  {
+    "date": "2019-12-07",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 424,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 472,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-07",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 424,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 472,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-08",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 402,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 7,
+    "timeInBed": 440,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-12-09",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 332,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 382,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-10",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 336,
+    "minutesAwake": 24,
+    "minutesAfterWakeup": 4,
+    "timeInBed": 360,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-12-11",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 416,
+    "minutesAwake": 57,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 473,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-12",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 220,
+    "minutesAwake": 29,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 249,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-12-13",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 337,
+    "minutesAwake": 32,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 369,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-12-14",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 386,
+    "minutesAwake": 41,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 427,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-12-15",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 369,
+    "minutesAwake": 32,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 401,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-12-16",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 367,
+    "minutesAwake": 30,
+    "minutesAfterWakeup": 10,
+    "timeInBed": 397,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-12-17",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 309,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 349,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-12-18",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 329,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 377,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-19",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 310,
+    "minutesAwake": 34,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 344,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-12-20",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 267,
+    "minutesAwake": 27,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 294,
+    "efficiency": 95
+  },
+  {
+    "date": "2019-12-21",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 385,
+    "minutesAwake": 30,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 415,
+    "efficiency": 99
+  },
+  {
+    "date": "2019-12-22",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 403,
+    "minutesAwake": 41,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 444,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-12-23",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 430,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 478,
+    "efficiency": 95
+  },
+  {
+    "date": "2019-12-24",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 369,
+    "minutesAwake": 41,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 410,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-12-25",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 423,
+    "minutesAwake": 57,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 480,
+    "efficiency": 97
+  },
+  {
+    "date": "2019-12-26",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 406,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 450,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-12-27",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 417,
+    "minutesAwake": 43,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 460,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-28",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 439,
+    "minutesAwake": 47,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 486,
+    "efficiency": 94
+  },
+  {
+    "date": "2019-12-29",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 418,
+    "minutesAwake": 54,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 472,
+    "efficiency": 96
+  },
+  {
+    "date": "2019-12-30",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 338,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 378,
+    "efficiency": 98
+  },
+  {
+    "date": "2019-12-31",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 364,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 406,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-01-01",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 360,
+    "minutesAwake": 37,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 397,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-01-02",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 510,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 560,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-01-03",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 368,
+    "minutesAwake": 54,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 422,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-01-04",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 459,
+    "minutesAwake": 61,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 520,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-05",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 430,
+    "minutesAwake": 51,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 481,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-01-06",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 318,
+    "minutesAwake": 31,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 349,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-06",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 318,
+    "minutesAwake": 31,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 349,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-07",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 315,
+    "minutesAwake": 37,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 352,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-01-08",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 327,
+    "minutesAwake": 62,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 389,
+    "efficiency": 90
+  },
+  {
+    "date": "2020-01-09",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 348,
+    "minutesAwake": 54,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 402,
+    "efficiency": 93
+  },
+  {
+    "date": "2020-01-10",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 344,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 384,
+    "efficiency": 93
+  },
+  {
+    "date": "2020-01-11",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 475,
+    "minutesAwake": 61,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 536,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-01-12",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 414,
+    "minutesAwake": 49,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 463,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-01-13",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 302,
+    "minutesAwake": 26,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 328,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-14",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 364,
+    "minutesAwake": 32,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 396,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-01-15",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 382,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 432,
+    "efficiency": 93
+  },
+  {
+    "date": "2020-01-16",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 351,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 393,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-17",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 350,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 398,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-01-18",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 311,
+    "minutesAwake": 51,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 362,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-19",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 337,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 376,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-01-20",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 359,
+    "minutesAwake": 53,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 412,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-21",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 365,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 405,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-01-22",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 302,
+    "minutesAwake": 29,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 331,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-23",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 349,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 4,
+    "timeInBed": 393,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-01-24",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 392,
+    "minutesAwake": 56,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 448,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-01-25",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 387,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 437,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-01-26",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 381,
+    "minutesAwake": 59,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 440,
+    "efficiency": 95
+  },
+  {
+    "date": "2020-01-27",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 307,
+    "minutesAwake": 43,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 350,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-28",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 326,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 364,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-01-29",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 325,
+    "minutesAwake": 36,
+    "minutesAfterWakeup": 4,
+    "timeInBed": 361,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-01-30",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 343,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 385,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-01-31",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 349,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 388,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-02-01",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 326,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 376,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-02-02",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 372,
+    "minutesAwake": 35,
+    "minutesAfterWakeup": 10,
+    "timeInBed": 407,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-02-03",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 369,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 419,
+    "efficiency": 95
+  },
+  {
+    "date": "2020-02-04",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 331,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 369,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-02-05",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 300,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 338,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-02-05",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 300,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 338,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-02-06",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 317,
+    "minutesAwake": 41,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 358,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-02-07",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 340,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 384,
+    "efficiency": 95
+  },
+  {
+    "date": "2020-02-08",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 425,
+    "minutesAwake": 47,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 472,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-02-09",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 379,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 427,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-02-10",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 327,
+    "minutesAwake": 35,
+    "minutesAfterWakeup": 12,
+    "timeInBed": 362,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-02-11",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 359,
+    "minutesAwake": 32,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 391,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-02-12",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 338,
+    "minutesAwake": 29,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 367,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-02-13",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 330,
+    "minutesAwake": 36,
+    "minutesAfterWakeup": 4,
+    "timeInBed": 366,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-02-14",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 247,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 286,
+    "efficiency": 100
+  },
+  {
+    "date": "2020-02-15",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 423,
+    "minutesAwake": 56,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 479,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-02-16",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 417,
+    "minutesAwake": 63,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 480,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-02-17",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 289,
+    "minutesAwake": 55,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 344,
+    "efficiency": 95
+  },
+  {
+    "date": "2020-02-18",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 389,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 428,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-02-19",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 352,
+    "minutesAwake": 33,
+    "minutesAfterWakeup": 4,
+    "timeInBed": 385,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-02-20",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 318,
+    "minutesAwake": 25,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 343,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-02-21",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 263,
+    "minutesAwake": 43,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 306,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-02-22",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 378,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 418,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-02-23",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 410,
+    "minutesAwake": 46,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 456,
+    "efficiency": 95
+  },
+  {
+    "date": "2020-02-24",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 315,
+    "minutesAwake": 49,
+    "minutesAfterWakeup": 9,
+    "timeInBed": 364,
+    "efficiency": 95
+  },
+  {
+    "date": "2020-02-25",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 264,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 304,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-02-26",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 296,
+    "minutesAwake": 26,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 322,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-02-27",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 319,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 361,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-02-28",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 318,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 358,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-02-29",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 362,
+    "minutesAwake": 52,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 414,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-03-01",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 346,
+    "minutesAwake": 32,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 378,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-03-02",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 366,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 408,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-03-03",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 374,
+    "minutesAwake": 30,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 404,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-03-04",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 300,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 342,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-03-05",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 358,
+    "minutesAwake": 47,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 405,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-03-06",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 369,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 419,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-03-06",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 369,
+    "minutesAwake": 50,
+    "minutesAfterWakeup": 5,
+    "timeInBed": 419,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-03-07",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 392,
+    "minutesAwake": 59,
+    "minutesAfterWakeup": 12,
+    "timeInBed": 451,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-03-08",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 371,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 413,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-03-09",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 334,
+    "minutesAwake": 40,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 374,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-10",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 326,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 370,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-03-12",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 331,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 375,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-03-13",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 389,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 433,
+    "efficiency": 94
+  },
+  {
+    "date": "2020-03-14",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 446,
+    "minutesAwake": 42,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 488,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-15",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 301,
+    "minutesAwake": 51,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 352,
+    "efficiency": 95
+  },
+  {
+    "date": "2020-03-16",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 345,
+    "minutesAwake": 57,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 402,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-17",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 473,
+    "minutesAwake": 62,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 535,
+    "efficiency": 100
+  },
+  {
+    "date": "2020-03-18",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 427,
+    "minutesAwake": 41,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 468,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-03-19",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 332,
+    "minutesAwake": 46,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 378,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-03-20",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 341,
+    "minutesAwake": 39,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 380,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-03-21",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 381,
+    "minutesAwake": 52,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 433,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-22",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 408,
+    "minutesAwake": 46,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 454,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-23",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 375,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 423,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-03-24",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 438,
+    "minutesAwake": 54,
+    "minutesAfterWakeup": 1,
+    "timeInBed": 492,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-25",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 347,
+    "minutesAwake": 56,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 403,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-03-26",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 415,
+    "minutesAwake": 44,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 459,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-27",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 307,
+    "minutesAwake": 38,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 345,
+    "efficiency": 97
+  },
+  {
+    "date": "2020-03-28",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 354,
+    "minutesAwake": 48,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 402,
+    "efficiency": 96
+  },
+  {
+    "date": "2020-03-29",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 349,
+    "minutesAwake": 65,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 474,
+    "efficiency": 99
+  },
+  {
+    "date": "2020-03-30",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 386,
+    "minutesAwake": 37,
+    "minutesAfterWakeup": 3,
+    "timeInBed": 423,
+    "efficiency": 98
+  },
+  {
+    "date": "2020-03-31",
+    "minutesToFallAsleep": 0,
+    "minutesAsleep": 345,
+    "minutesAwake": 36,
+    "minutesAfterWakeup": 0,
+    "timeInBed": 381,
+    "efficiency": 98
+  }
+]
